@@ -1,3 +1,3 @@
-# common progam module
+# common program module
 
 ::: geodev_mapping.common
