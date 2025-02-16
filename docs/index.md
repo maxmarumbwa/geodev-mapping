@@ -4,7 +4,7 @@
 [![image](https://img.shields.io/pypi/v/geodev_mapping.svg)](https://pypi.python.org/pypi/geodev_mapping)
 
 
-**Python Boilerplate contains all the boilerplate you need to create a Python package.**
+**Python package for geospatial data analysis and mapping.**
 
 
 -   Free software: MIT License
