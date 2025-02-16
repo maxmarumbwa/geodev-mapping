@@ -10,7 +10,7 @@
 
 -   Free software: MIT License
 -   Documentation: https://maxmarumbwa.github.io/geodev-mapping
-    
+
 
 ## Features
 
